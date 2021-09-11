@@ -1,0 +1,44 @@
+.cmt{
+    color: black;
+    background-color: rgb(223, 202, 221);
+    height: 250px;
+    margin-left: 240px ;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+.cmt1{
+    background-color:rgb(178, 87, 209);
+    height: 35px;
+}
+
+.mb1{
+    color: black;
+    margin-left: 10px;
+    margin-top: 8px;
+    float: left;
+}
+
+.tb{
+    color: black;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.kb{
+    margin-top: 140px;
+}
+.kb1{
+    margin-left: 10px;
+    float: left;
+    width: 40%;
+    margin-top: 4px;
+}
+.kb2{
+    margin-top: 4px;
+    float: left;
+    width: 40%;
+}
+.kb3{
+    margin-top: 4px;
+    float: left;
+    width: 10%;
+}
