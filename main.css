@@ -119,7 +119,7 @@ nav {
 .menu li a,
 .dropbtn {
     font-size: 20px;
-    display: : inline-block;
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -207,6 +207,39 @@ nav {
     margin: center;
 }
 
+
+/*Table styles START*/
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table th {
+    text-align: left;
+    background-color: #869960;
+    color: #fff;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0);
+}
+
+table th,
+table td {
+    border: 1px solid #869960;
+    padding: 5px;
+}
+
+table tbody tr:nth-child(odd) {
+    background-color: #e5e9dc;
+}
+
+table tbody td:nth-child(2),
+table tbody td:nth-child(3) {
+    text-align: center;
+}
+
+
+/*Table styles START*/
+
 .form__button:hover {
     background: #288cff;
 }
@@ -253,7 +286,7 @@ h2 {
     margin-top: 50px;
 }
 
-. .center {
+.center {
     margin-top: 350px;
     width: 50%;
     color: rgb(159, 159, 160);
