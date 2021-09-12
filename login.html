@@ -16,7 +16,7 @@
                   <input type="text " class="form__input " name="username " [(ngModel)]="model.username " #username="ngModel " required autofocus placeholder="Username or email " />
                 </div>
                 <br>
-                <div [ngClass]="{ 'has-error' : f.submitted && !password.valid } ">
+                <div [ngClass]="{ 'has-error' : f.submitted && !password.valid }">
                   <input type="password" class="form__input " name="password" [(ngModel)]="model.password" #password="ngModel " required autofocus placeholder="Password " />
                 </div>
                 <br>
