@@ -213,6 +213,8 @@ nav {
 table {
     border-spacing: 0;
     border-collapse: collapse;
+    margin: 0 auto;
+    margin-bottom: 40px;
 }
 
 table th {
@@ -283,7 +285,7 @@ h2 {
 
 .under_middle {
     border-top: 1px solid rgb(143, 141, 141);
-    margin-top: 50px;
+    margin-top: -350px;
 }
 
 .center {
@@ -340,7 +342,7 @@ h2 {
     margin-top: 1550px;
     background-color: rgb(64, 43, 66);
     width: 850px;
-    height: 620px;
+    height: 920px;
     margin: 0px auto;
     border-radius: 20px;
 }
@@ -381,7 +383,7 @@ h2 {
     background-image: url(https://userscontent2.emaze.com/images/10ee649d-cd0a-4199-8de4-c88436560549/844eb3efc6847b81511b8eddb78e1c41.jpg);
     background-repeat: repeat;
     margin-top: -10px;
-    height: 700px;
+    height: 982px;
 }
 
 .khoantrang {
